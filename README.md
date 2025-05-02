@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://github.com/DudsO-o/DudsO-o/blob/main/cat_bubblegum.jpeg">
+ <source media="(prefers-color-scheme: dark)" srcset="https://i.pinimg.com/1200x/10/2f/c6/102fc6160b1a8445f1928488241612d1.jpg">
  <source media="(prefers-color-scheme: light)" srcset="https://github.com/DudsO-o/DudsO-o/blob/main/cat_bubblegum.jpeg">
  <img alt="YOUR-ALT-TEXT" src="https://github.com/DudsO-o/DudsO-o/blob/main/cat_bubblegum.jpeg">
 </picture>

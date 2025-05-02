@@ -1,4 +1,4 @@
-## Hi there 👋
+## Testing...
 
 <!--
 **DudsO-o/DudsO-o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://pin.it/2BT7dpG7l">
+ <source media="(prefers-color-scheme: light)" srcset="https://pin.it/2BT7dpG7l">
+ <img alt="YOUR-ALT-TEXT" src="https://pin.it/2BT7dpG7l">
+</picture>
